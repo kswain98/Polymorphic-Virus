@@ -4,7 +4,7 @@ import datetime
 
 match = ""
 matchkey = 9
-key = random.randrange(3, 10)
+key = random.randrange(1, 9)
 
 print ("Key: ")
 print (key)
